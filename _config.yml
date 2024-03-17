@@ -1,0 +1,83 @@
+title: Ashish Regmi's Portfolio
+email: ashishregmi2017@gmail.com
+description: >-
+  This is the professional portfolio of Ashish Regmi, a Senior Backend Engineer specializing in computer application security and software development. Here you'll find details on my work experience, projects, skills, and educational background.
+baseurl: "" # Consider setting this if your site will be hosted in a subpath
+url: "https://www.linkedin.com/in/ashish-regmi/" # Your professional LinkedIn profile can serve as the url temporarily
+twitter_username: # Optional: Your Twitter handle
+github_username:  # Optional: Your GitHub username, if you wish to showcase your projects
+
+# Build settings
+theme: minimal-mistakes-jekyll
+plugins:
+  - jekyll-feed
+
+# Custom variables
+linkedin_url: "https://www.linkedin.com/in/ashish-regmi/"
+education:
+  - degree: Post-Graduate Computer Application Security
+    institution: Conestoga College, Kitchener, ON
+    year: 2018-2019
+  - degree: Bachelors in Computer Science
+    institution: Sharda University, Gr. Noida, UP
+    year: 2012-2016
+
+work_experience:
+  - role: Senior Backend Engineer
+    company: Bitmosys Inc.
+    period: Sep 2022 - Present
+    details:
+      - Collaborate with cross-functional teams to develop and maintain a high-quality codebase using Python 3.
+      - Implement and optimize Django-based solutions.
+      - Manage relational databases, particularly PSQL.
+  - role: Salesforce Consultant / Software Developer
+    company: Revolent Group, Toronto, ON
+    period: Aug 2021 - Sep 2022
+    details:
+      - Developed process automation in Salesforce.
+      - Configured user interface using Page Layouts and Lightning App Builder.
+  - role: Technical Operation Specialists & Support
+    company: Shaw Communications, Brantford, ON
+    period: May 2019 - Aug 2020
+    details:
+      - Solved tickets and any issues for internet and cable tv using ServiceNow.
+
+# Additional skills and projects can be added in a similar manner.
+
+# Exclude from processing.
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+author:
+  name: "Ashish Regmi"
+  bio: "Senior Backend Engineer | Expert in Computer Application Security"
+  avatar: "/path/to/avatar.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:ashishregmi2017@gmail.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/ashish-regmi/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/your-github-username"
+
+navigation:
+  - title: "Menu"
+    items: 
+      - title: "Home"
+        url: /
+      - title: "About"
+        url: /about/
+      # Add more links as needed
+
