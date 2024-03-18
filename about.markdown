@@ -20,4 +20,4 @@ If you share my passion for innovation, security, and the limitless potential of
 
 Please feel free to contact me to explore exciting opportunities for collaboration or to discuss how we can harness the power of Web3 and blockchain to shape a better future.
 
-Please feel free to [contact me](/contact/) for any inquiries.
+Please feel free to [contact me](/portfolio/contact/) for any inquiries.
