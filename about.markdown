@@ -8,6 +8,14 @@ permalink: /about/
   <img src="{{ site.baseurl }}/assets/super_final.jpg" alt="Ashish Regmi's Avatar" style="width: auto; max-width: 200px; height: auto; border-radius: 50%; border: 2px solid #cccccc;"/>
 </div>
 
+<div style="margin-bottom: 20px;">
+  <a href="{{ site.baseurl }}/assets/resume.pdf" download="Ashish_Regmi_Resume">
+    <button style="background-color: #008cba; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; font-size: 16px;">
+      Download My Resume
+    </button>
+  </a>
+</div>
+
 Located in Waterloo, Canada, I possess a highly adaptable work ethic, comfortably aligning my schedule to meet the needs of globally distributed teams. I am fully prepared to work with North American and European teams, offering complete flexibility in my hours — anytime, any day, seven days a week. This commitment underlines my dedication to seamless collaboration and my drive to contribute to projects that span across various time zones.
 
 Greetings, fellow tech enthusiasts! Allow me to introduce myself as a seasoned Senior Backend Engineer with an insatiable thirst for knowledge and a relentless drive to push the boundaries of innovation. Backed by a solid foundation in computer science and specialized training in computer application security from the esteemed Conestoga College, I have honed a unique blend of technical expertise and security-focused mindset.
