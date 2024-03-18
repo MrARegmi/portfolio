@@ -4,7 +4,9 @@ title: About Me
 permalink: /about/
 ---
 
-<img src="{{ site.baseurl }}/assets/super_final.jpg" alt="Ashish Regmi's Avatar" class="avatar" />
+<div style="float: right; margin-left: 20px; margin-bottom: 10px;">
+  <img src="{{ site.baseurl }}/assets/super_final.jpg" alt="Ashish Regmi's Avatar" style="width: auto; max-width: 200px; height: auto; border-radius: 50%; border: 2px solid #cccccc;"/>
+</div>
 
 Located in Waterloo, Canada, I possess a highly adaptable work ethic, comfortably aligning my schedule to meet the needs of globally distributed teams. I am fully prepared to work with North American and European teams, offering complete flexibility in my hours — anytime, any day, seven days a week. This commitment underlines my dedication to seamless collaboration and my drive to contribute to projects that span across various time zones.
 
