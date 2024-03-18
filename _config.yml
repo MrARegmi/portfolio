@@ -61,7 +61,7 @@ exclude:
 author:
   name: "Ashish Regmi"
   bio: "Senior Backend Engineer | Expert in Computer Application Security"
-  avatar: "/path/to/avatar.jpg"
+  avatar: "assets/super_final.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
