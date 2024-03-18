@@ -8,9 +8,10 @@ twitter_username: # Optional: Your Twitter handle
 github_username:  # Optional: Your GitHub username, if you wish to showcase your projects
 
 # Build settings
-theme: minimal-mistakes-jekyll
 plugins:
-  - jekyll-feed
+  - jekyll-remote-theme
+
+remote_theme: "mmistakes/minimal-mistakes"
 
 # Custom variables
 linkedin_url: "https://www.linkedin.com/in/ashish-regmi/"
