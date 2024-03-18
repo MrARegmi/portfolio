@@ -2,8 +2,8 @@ title: Ashish Regmi's Portfolio
 email: ashishregmi2017@gmail.com
 description: >-
   This is the professional portfolio of Ashish Regmi, a Senior Backend Engineer specializing in computer application security and software development. Here you'll find details on my work experience, projects, skills, and educational background.
-baseurl: "" # Consider setting this if your site will be hosted in a subpath
-url: "https://www.linkedin.com/in/ashish-regmi/" # Your professional LinkedIn profile can serve as the url temporarily
+url: "https://mraregmi.github.io" # The base URL of your GitHub Pages site
+baseurl: "/portfolio" ## Your professional LinkedIn profile can serve as the url temporarily
 twitter_username: # Optional: Your Twitter handle
 github_username:  # Optional: Your GitHub username, if you wish to showcase your projects
 
@@ -71,7 +71,8 @@ author:
       url: "https://www.linkedin.com/in/ashish-regmi/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/your-github-username"
+      url: "https://github.com/MrARegmi"
+
 
 navigation:
   - title: "Menu"
